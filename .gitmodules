@@ -1,0 +1,48 @@
+[submodule "agile-abstract-business"]
+	path = agile-abstract-business
+	url = https://gitee.com/agile-framework/agile-abstract-business.git
+[submodule "agile-cache"]
+	path = agile-cache
+	url = https://gitee.com/agile-framework/agile-cache.git
+[submodule "agile-context"]
+	path = agile-context
+	url = https://gitee.com/agile-framework/agile-context.git
+[submodule "agile-dictionary"]
+	path = agile-dictionary
+	url = https://gitee.com/agile-framework/agile-dictionary.git
+[submodule "agile-generator"]
+	path = agile-generator
+	url = https://gitee.com/agile-framework/agile-generator.git
+[submodule "agile-jpa"]
+	path = agile-jpa
+	url = https://gitee.com/agile-framework/agile-jpa.git
+[submodule "agile-log"]
+	path = agile-log
+	url = https://gitee.com/agile-framework/agile-log.git
+[submodule "agile-mvc"]
+	path = agile-mvc
+	url = https://gitee.com/agile-framework/agile-mvc.git
+[submodule "agile-mybatis"]
+	path = agile-mybatis
+	url = https://gitee.com/agile-framework/agile-mybatis.git
+[submodule "agile-security"]
+	path = agile-security
+	url = https://gitee.com/agile-framework/agile-security.git
+[submodule "agile-sql"]
+	path = agile-sql
+	url = https://gitee.com/agile-framework/agile-sql.git
+[submodule "agile-task"]
+	path = agile-task
+	url = https://gitee.com/agile-framework/agile-task.git
+[submodule "agile-validate"]
+	path = agile-validate
+	url = https://gitee.com/agile-framework/agile-validate.git
+[submodule "common-util"]
+	path = common-util
+	url = https://gitee.com/agile-framework/common-util.git
+[submodule "spring-boot-starter-kaptcha"]
+	path = spring-boot-starter-kaptcha
+	url = https://gitee.com/agile-framework/spring-boot-starter-kaptcha.git
+[submodule "spring-util"]
+	path = spring-util
+	url = https://gitee.com/agile-framework/spring-util.git
